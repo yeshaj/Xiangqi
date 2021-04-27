@@ -1,6 +1,3 @@
-import re, copy
-
-
 class Pieces:
 # Each piece is assigned a number for the board area, when putting in the specific piece in the initial position
     Empty = 0
